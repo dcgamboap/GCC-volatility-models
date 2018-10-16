@@ -5,7 +5,7 @@
 #
 # name:         main.R
 # description:  preliminar simulation study for ARCH 
-# functions:  most methods using functions of function directory
+# functions:  all methods use functions of function directory
 #                
 # output:    DATE_ARCH.RData   
 #
